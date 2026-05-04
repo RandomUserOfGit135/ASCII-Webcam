@@ -1,0 +1,11 @@
+[package]
+name = "ascii-webcam"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "ascii-webcam"
+path = "src/main.rs"
+
+[dependencies]
+opencv = "0.92"
