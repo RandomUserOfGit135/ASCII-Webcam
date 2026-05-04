@@ -54,7 +54,7 @@ Supported distributions:
 
 Clone the repository:
 
-git clone https://github.com/youruser/ASCII-Webcam
+git clone https://github.com/RandomUserOfGit135/ASCII-Webcam.git
 cd ASCII-Webcam
 chmod +x setup.sh
 ./setup.sh
